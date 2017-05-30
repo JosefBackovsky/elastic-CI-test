@@ -3,6 +3,7 @@ using NUnit.Framework;
 
 namespace test
 {
+    [Category("CategoryA")]
     [TestFixture]
     public class TestsA
     {
